@@ -1,0 +1,10 @@
+node_modules/
+logs/*
+.vite/
+__pycache__/
+*.pt
+*.log
+*.zip
+Dockerfile
+.github/
+logs/logfile.log
